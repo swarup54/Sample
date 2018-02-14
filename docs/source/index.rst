@@ -1,22 +1,9 @@
-.. sample documentation master file, created by
-   sphinx-quickstart on Wed Feb 14 17:29:52 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+* This is a bulleted list.
+* It has two items, the second
+  item uses two lines.
 
-Welcome to sample's documentation!
-==================================
+1. This is a numbered list.
+2. It has two items too.
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+#. This is a numbered list.
+#. It has two items too.
